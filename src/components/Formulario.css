@@ -1,0 +1,30 @@
+.formu {
+    position: relative;
+    height: 20vh;
+    text-align: center;
+}
+
+.barra {
+    width: 400px;
+    padding: 10px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px; 
+    margin-bottom: 10px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.buttons button {
+    background-color: #f8f9fa;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    padding: 10px 20px;
+    margin: 0 5px;
+}
+
+.buttons button:hover {
+    cursor: pointer;
+}

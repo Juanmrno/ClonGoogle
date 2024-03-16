@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+.nav {
+    display: flex;
+    gap: 5mm;
+    align-items: center;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav img {
+    height: 1em;
+}
+
+.isesion {
+    background-color: rgb(58, 138, 243);
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+}

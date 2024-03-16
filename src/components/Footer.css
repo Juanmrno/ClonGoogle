@@ -1,0 +1,14 @@
+.foot {
+    text-align: center; /* Centrar el contenido horizontalmente */
+    margin-top: 10px; /* Espacio superior */
+}
+
+.foot a {
+    text-decoration: none; /* Eliminar subrayado del enlace */
+    color: #0b17b8; /* Color de texto similar al de Google */
+    font-weight: bold; /* Fuente en negrita */
+}
+
+.foot a:hover {
+    text-decoration: underline; /* Subrayado al pasar el ratón sobre el enlace */
+}
